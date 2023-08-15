@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-08-15T18:23:48.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="FgiypN7TNObYaZKZNydB" version="21.6.5" type="device">
+  <diagram name="Pagina-1" id="TXH4FBH8ftB6_k-2jBvi">
+    <mxGraphModel dx="841" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-1" value="upload_ebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-2" value="readings_history" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-3" value="random_ebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-4" value="library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-5" value="book_to_read" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-6" value="settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-7" value="first_run_preferences_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-8" value="welcome_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-9" value="random_book_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-10" value="upload_book_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-11" value="book_to_read_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-12" value="settings_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-13" value="readings_history_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-14" value="library_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
