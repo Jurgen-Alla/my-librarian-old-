@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:my_librarian/presentation/welcome/welcome_page.dart';
+import 'package:my_librarian/presentation/welcome/pages/welcome_page.dart';
 
-final GoRouter router = GoRouter(
+final GoRouter _router = GoRouter(
   initialLocation: '/',
   routes: <RouteBase>[
     GoRoute(
@@ -12,3 +13,7 @@ final GoRouter router = GoRouter(
     ),
   ],
 );
+
+final Provider<GoRouter> goRouterProvider = Provider<GoRouter>(createProvider);
+
+GoRouter createProvider(ProviderRef<GoRouter> ref) => _router;
