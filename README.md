@@ -1,6 +1,6 @@
 # my_librarian
 
-A new Flutter project.
+My-Librarian: Your Windows companion for EPUB book management and serendipitous reading suggestions.
 
 ## Getting Started
 
