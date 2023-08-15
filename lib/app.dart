@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_librarian/constants/color_schemes.g.dart';
 import 'package:my_librarian/presentation/welcome/welcome_page.dart';
 
 class App extends StatelessWidget {
@@ -10,9 +11,8 @@ class App extends StatelessWidget {
 
     return MaterialApp(
       title: appTitle,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: ThemeData(colorScheme: lightColorScheme, useMaterial3: true),
+      darkTheme: ThemeData(colorScheme: darkColorScheme, useMaterial3: true),
       home: const WelcomePage(),
     );
   }
