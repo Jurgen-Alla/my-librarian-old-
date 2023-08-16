@@ -5,13 +5,13 @@ class WelcomeButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const String buttonText = 'Start';
+    const String buttonTitle = 'Start';
 
     return SizedBox(
       width: double.infinity,
       child: ElevatedButton(
         onPressed: () {},
-        child: const Text(buttonText),
+        child: const Text(buttonTitle),
       ),
     );
   }

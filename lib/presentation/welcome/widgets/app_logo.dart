@@ -5,7 +5,7 @@ class AppLogo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const String assetPath = 'assets/images/app_logo.png';
+    const String assetPath = './assets/images/app_logo.png';
 
     return Image.asset(
       assetPath,
