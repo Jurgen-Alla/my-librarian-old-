@@ -5,17 +5,14 @@ class BookMetadataCard extends StatelessWidget {
   const BookMetadataCard({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return SizedBox(
-      width: 400,
-      child: Card(
-        color: Theme.of(context).colorScheme.secondaryContainer,
-        child: const Padding(
-          padding: EdgeInsets.all(25),
-          child: BookMetadataContent(),
+  Widget build(BuildContext context) => SizedBox(
+        width: 400,
+        child: Card(
+          color: Theme.of(context).colorScheme.secondaryContainer,
+          child: const Padding(
+            padding: EdgeInsets.all(25),
+            child: BookMetadataContent(),
+          ),
         ),
-      ),
-    );
-    ;
-  }
+      );
 }

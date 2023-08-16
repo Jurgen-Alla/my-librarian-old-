@@ -12,7 +12,10 @@ class _BooksQueueListViewState extends State<BooksQueueListView> {
   @override
   Widget build(BuildContext context) => ScrollConfiguration(
         behavior: ScrollConfiguration.of(context).copyWith(
-            dragDevices: {PointerDeviceKind.touch, PointerDeviceKind.mouse}),
+            dragDevices: <PointerDeviceKind>{
+              PointerDeviceKind.touch,
+              PointerDeviceKind.mouse
+            }),
         child: ListView(
           scrollDirection: Axis.horizontal,
           physics: const AlwaysScrollableScrollPhysics(),
