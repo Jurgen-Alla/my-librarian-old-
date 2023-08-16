@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-08-15T22:39:03.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="54jPx5LSCuihPGsnNUtL" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-08-16T01:06:59.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="C38sFe8WIU4C5GTxTBGg" version="21.6.5" type="device">
   <diagram name="Pagina-1" id="TXH4FBH8ftB6_k-2jBvi">
     <mxGraphModel dx="841" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="eIJyn7gU4gibQbM1GSzE-9" value="random_book_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eIJyn7gU4gibQbM1GSzE-10" value="upload_book_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eIJyn7gU4gibQbM1GSzE-10" value="add_book_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIJyn7gU4gibQbM1GSzE-11" value="book_to_read_page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

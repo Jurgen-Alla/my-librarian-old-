@@ -19,7 +19,6 @@ class _EmptyLibraryPageState extends State<EmptyLibraryPage> {
   @override
   void initState() {
     unawaited(windowManager.setSize(const Size(1000, 800)));
-
     super.initState();
   }
 
